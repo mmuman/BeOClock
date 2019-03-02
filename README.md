@@ -5,6 +5,7 @@ Released under MIT licence,
 
 usual disclaimer applies, blah blah blah...
 
+![](src/BeOClock.png "Screenshot")
 
 This application is an elliptic clock for BeOS, just like oclock does for UNIX users, but much better of course :P
 It use a new features from the last BeOS version (non-rectangular windows).
