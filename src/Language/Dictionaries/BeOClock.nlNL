@@ -1,0 +1,14 @@
+# Vertaald door Begasus http://www.bebug.be
+
+# Locale file for BeOClock. Please send your updated or completed translation to yellowTAB at markus.maier@yellowtab.com.
+# Best viewed with Swis721 BT at 10 pt.
+
+# Menu
+"Always on top"		"Altijd in de voorgrond"
+"Background"		"Achtergrond"
+"Border"			"Rand"
+"Hollow"			"Uitgesneden"
+"Show border"		"Toon Rand"
+
+# About Text
+"BeOClock, (c) 2002, mmu_man\n\nDrag colors on it !\nTips:\n\n- use right button to drag a background color,\n- use 'Show border' to move and resize it.\n\nEnjoy ! :-)"	"BeOClock, (c) 2002, mmu_man\n\nSleep een kleur op de klok !\nTips:\n\n- Gebruik de rechtermuisknop om een kleur op de klok te slepen,\n- kies 'Toon Rand' om de klok te verplaatsen en de grootte te veranderen.\n\nVeel plezier ! :-)"

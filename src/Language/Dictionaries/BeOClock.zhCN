@@ -1,0 +1,16 @@
+# Locale file for BeOClock. Please send your updated or completed translation to yellowTAB at markus.maier@yellowtab.com.
+# Best viewed with Swis721 BT at 10 pt.
+
+# if you translated this file, then your name goes here!
+# TRANSLATED_BY   "Guanghui Di" 
+# Beijing 02.22.2005 
+
+# Menu
+"Always on top"		"总在最上面"
+"Background"		"背景"
+"Border"			"边框"
+"Hollow"			"空心"
+"Show border"		"显示边界"
+
+# About Text
+"BeOClock, (c) 2002, mmu_man\n\nDrag colors on it !\nTips:\n\n- use right button to drag a background color,\n- use 'Show border' to move and resize it.\n\nEnjoy ! :-)"	"BeOClock,(c)2002, 存储器管理单元_男人\n\n拖拽颜色到它上面!\n提示:\n\n- 用右键拖拽一个背景色,\n- 用'显示边框'对他移动和重新调整大小.\n\n高兴! :-)"

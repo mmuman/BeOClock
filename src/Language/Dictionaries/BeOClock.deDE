@@ -1,0 +1,12 @@
+# Locale file for BeOClock. Please send your updated or completed translation to yellowTAB at markus.maier@yellowtab.com.
+# Best viewed with Swis721 BT at 10 pt.
+
+# Menu
+"Always on top"		"Immer im Vordergrund"
+"Background"		"Hintergrund"
+"Border"			"Rahmen"
+"Hollow"			"Ausgeschnitten"
+"Show border"		"Rahmen anzeigen"
+
+# About Text
+"BeOClock, (c) 2002, mmu_man\n\nDrag colors on it !\nTips:\n\n- use right button to drag a background color,\n- use 'Show border' to move and resize it.\n\nEnjoy ! :-)"	"BeOClock, (c) 2002, mmu_man\n\nZiehe eine Farbe auf die Uhr !\nHinweise:\n\n- benutze die rechten Maustaste um eine Farbe auf die Uhr zu ziehen,\n- wähle 'Rahmen anzeigen' um die Uhr zu vergrößern und zu verschieben.\n\nViel Spaß ! :-)"

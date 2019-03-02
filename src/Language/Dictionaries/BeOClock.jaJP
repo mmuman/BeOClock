@@ -1,0 +1,21 @@
+# Japanese locale file for BeOClock.
+# Original translation by JPBE.net Zeta Localization Team
+# Updated by yellowTABGmbH
+# Last revision: 4/21/05
+# This file is copyright of yellowTAB GmbH and may only be used
+# under the Zeta language file license terms.
+
+### Menu
+
+"Show border"	"ウィンドウ枠を表示"
+"Always on top"	"常に手前に表示"
+"Hollow"		"文字盤の透明化"
+"About"		"BeOClock について"
+"Background"	"背景"
+"Border"		"輪郭"
+"Hours"		"短針"
+"Minutes"		"長針"
+"Seconds"		"秒針"
+
+# About Text
+"BeOClock, (c) 2002, mmu_man\n\nDrag colors on it !\nTips:\n\n- use right button to drag a background color,\n- use 'Show border' to move and resize it.\n\nEnjoy ! :-)"        "BeOClock, (c) 2002, mmu_man\n\nカラーをドラッグ＆ドロップしてみましょう！\n\nZeta メニューから「インターフェース」を選びます。「配色」タブのカラーコントロールから背景色を BeOclock にドラッグ＆ドロップしてみてください。\n\n「ウィンドウ枠の表示」を選択すると、移動やリサイズが可能になります。\n\nエンジョイ！ :-)"

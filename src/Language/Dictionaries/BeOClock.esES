@@ -1,0 +1,11 @@
+# Locale file for BeOClock. Please send your updated or completed translation to Oliver Ruiz Dorantes, oliver.ruiz-dorantes@yellowtab.com
+
+# Menu
+"Always on top"		"Siempre encima"
+"Background"		"Fondo"
+"Border"			"Borde"
+"Hollow"			"Vacío"
+"Show border"		"Mostrar borde"
+
+# About Text
+"BeOClock, (c) 2002, mmu_man\n\nDrag colors on it !\nTips:\n\n- use right button to drag a background color,\n- use 'Show border' to move and resize it.\n\nEnjoy ! :-)"	"BeOClock, (c) 2002, mmu_man\n\nArrastrale colores !\nTrucos:\n\n- Utilice el botón derecho para arrastrar un color de fondo.\n- Utilice 'Mostrar borde' para mover o redimensionarlo.\n\nDiviertase!:-)"
